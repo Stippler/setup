@@ -1,0 +1,25 @@
+ubuntu-software:
+	- intelliJ
+	- pycharm
+
+i3 shortcuts:
+
+general:
+	- open terminal: mod+enter
+	- open search: mod+d
+	- end application: mod+shift+q
+	- insert vertically: mod+v
+	- move around windows: mod+hjkl
+	- stack windows: mod+s
+	- tile windows: mod+e
+	- tab windows: mod+w
+	- resize: mod+r
+	- mod+shift+arrow: move window
+
+workspaces:
+	- move to different workspace: mod+number
+	- move window to different workspace: mod+shift+number
+
+stuff:
+	- log out: mod+shift+e
+
